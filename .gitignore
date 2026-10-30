@@ -1,0 +1,8 @@
+# Python & Virtual Env
+.venv/
+__pycache__/
+*.pyc
+
+# Sensitive account data / Cookies
+accounts.json
+.env
